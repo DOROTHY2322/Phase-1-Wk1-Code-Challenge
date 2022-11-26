@@ -1,3 +1,4 @@
+//generating grades given the scores.
 function grading(score){
     let grade;
     if( score > 79){
@@ -23,3 +24,10 @@ grading(40)
 grading(55)
 grading(75)
 grading(90)
+
+// speed detector code challenge
+function speedDetector(speed){
+    
+}
+
+
