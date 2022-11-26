@@ -12,6 +12,8 @@ DESCRIPTION
 The code challenge illustrates on the conditional tests that is if, else if and switch case and it how nested if is implemented in the case of multiple conditions to be statisfied.
 
 CHALLENGES
+
+
 Student Grade Generator
 
 Speed Detector 
