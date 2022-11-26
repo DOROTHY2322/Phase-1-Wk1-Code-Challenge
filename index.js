@@ -26,8 +26,15 @@ grading(75)
 grading(90)
 
 // speed detector code challenge
-function speedDetector(speed){
-    
+let speed=135;
+let print;
+if(speed<=70){
+    print ='OK'
+} else if(((speed-70)/5)>=12){
+    print ="License suspended";
+
+}else if(speed>=71){
+    print = ('points:'+(speed-70)/5)
 }
 
-
+console.log(print);
