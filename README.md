@@ -16,9 +16,15 @@ CHALLENGES
 
 Student Grade Generator
 
+This challenge is to return a grade after the condition has been invoked and the grade assigned.
+
 Speed Detector 
 
+inputs the speed and in turn generates that points.
+
 Net Salary Calculator
+
+Calculates the net salary of an individual as well as computes the benefits accredited, Nhif and Nssf.
 
 
 
