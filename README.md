@@ -26,6 +26,12 @@ Net Salary Calculator
 
 Calculates the net salary of an individual as well as computes the benefits accredited, Nhif and Nssf.
 
+PROJECT SETUP
+
+AUTHOR: DOROTHY JEBET
+
+LICENSE: ISC LICENSE
+
 
 
 
