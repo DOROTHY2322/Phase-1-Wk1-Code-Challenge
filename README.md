@@ -38,7 +38,8 @@ To use this repo on your machine requires some simple steps
 Running the application is very straight forward. You can use the following steps to run the app.
 
 - Install required dependencies from npm
-- npm init
+
+    npm init
 
 
 
@@ -59,7 +60,7 @@ inputs the speed and in turn generates that points.
 Calculates the net salary of an individual as well as computes the benefits accredited, Nhif and Nssf.
 
 
-# Authors
+# Author
 This project was done  by:
 - DOROTHY JEBET
 # License
