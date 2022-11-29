@@ -3,16 +3,50 @@ OBJECTIVES
 
 Practice writing if...else if...else statements.
 
-# INTRODUCTION
+# Description
+This is a practice code challenge on implementing if statements as well as function declarations.
 
-This project aims at practicing on conditional statement in javaScript as well as function deeeclarations .
-# DESCRIPTION
 
-The code challenge illustrates on the conditional tests that is if, else if and switch case and it how nested if is implemented in the case of multiple conditions to be statisfied.
+# Getting Started
+In order for you to use the content on this repo ensure you have the following:
 
-# CHALLENGES
+- A computer that runs on either of the following; (Windows 7+, Linux, Mac OS)
+- nodejs 9.0+
+- vs code
+- The challenge questions.
 
-# Student Grade Generator
+## Installation
+
+To use this repo on your machine requires some simple steps
+
+### Alternative One
+
+- Open a terminal / command line interface on your computer
+- Clone the repo by using the following:
+
+        git clone git@github.com:DOROTHY2322/Phase-1-Wk1-Code-Challenge.git
+
+- Change directory to the repo folder:
+
+        cd Phase-1-Wk1-Code-Challenge
+
+-  Open it in ``Visual Studio Code``
+
+        code .
+
+
+Running the application is very straight forward. You can use the following steps to run the app.
+
+- Install required dependencies from npm
+- npm init
+
+
+
+- Run the application
+
+      npm start
+   # Challenges
+ # Student Grade Generator
 
 This challenge is to return a grade after the condition has been invoked and the grade assigned.
 
@@ -24,14 +58,18 @@ inputs the speed and in turn generates that points.
 
 Calculates the net salary of an individual as well as computes the benefits accredited, Nhif and Nssf.
 
-# PROJECT SETUP
-using function declaration to solve the code challenges.
 
-To run the test i implemeted npm start and node index.js
+# Authors
+This project was done  by:
+- DOROTHY JEBET
+# License
+The project is licensed MIT
 
-# AUTHOR: DOROTHY JEBET
 
-# LICENSE: ISC LICENSE
+
+
+
+
 
 
 
